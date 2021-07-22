@@ -1,0 +1,10 @@
+@media (max-width:500px) {
+    .container{
+        max-width: 100%;
+        margin: 0% auto;
+    }
+    .menus ul li{
+        font-size: 2rem !important;
+    }
+}
+

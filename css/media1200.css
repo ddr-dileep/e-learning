@@ -1,0 +1,10 @@
+@media (max-width:1200px) {
+    .container{
+        max-width: 900px;
+        margin: 0% auto;
+    }
+    header nav{
+        display: flex;
+        max-width: 1000px;
+    }
+}
